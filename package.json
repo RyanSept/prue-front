@@ -1,0 +1,15 @@
+{
+  "name": "prue-front",
+  "version": "1.0.0",
+  "description": "Frontend bucketlists app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Ryan Marvin",
+  "license": "ISC",
+  "dependencies": {
+    "node-static": "^0.7.9"
+  }
+}
